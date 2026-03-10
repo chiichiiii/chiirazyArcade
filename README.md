@@ -58,15 +58,16 @@ src/
 - 사운드 시스템
 
 ## 🎮 게임 화면
+
 ![chiirazyArcade1](https://github.com/user-attachments/assets/fc721dec-ccad-46a6-a87a-9aa04f4c6245)
 - 게임 초기 화면
 
-![chiirazyArcade4](https://github.com/user-attachments/assets/9574adb7-890e-4616-9360-5053f869b57d)
+![chiirazyArcade2](https://github.com/user-attachments/assets/f4d4ea6a-c3a3-426c-9980-57ba6b5ffda5)
 - 친구와의 대전
   
-![chiirazyArcade2](https://github.com/user-attachments/assets/f4d4ea6a-c3a3-426c-9980-57ba6b5ffda5)
+![chiirazyArcade3](https://github.com/user-attachments/assets/bcf898d2-a32e-4923-a784-b4af0c802ca2)
 - 봇전
   
-![chiirazyArcade3](https://github.com/user-attachments/assets/bcf898d2-a32e-4923-a784-b4af0c802ca2)
+![chiirazyArcade4](https://github.com/user-attachments/assets/9574adb7-890e-4616-9360-5053f869b57d)
 - 꼬물이 모드
 
