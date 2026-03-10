@@ -1,0 +1,27 @@
+/* 기본 테마 색상/레이아웃 스타일 정의 파일 */`r`n:root {`r`n  /* 화면 전체 색상 변수 */
+  --bg: #151a24;
+  --panel: #202738;
+  --panel-border: #4f688f;
+  --text: #edf2ff;
+}
+
+* { box-sizing: border-box; }
+/* 브라우저 전체 배경과 중앙 정렬 */`r`nbody {
+  margin: 0;
+  background: radial-gradient(circle at 20% 20%, #29324a, var(--bg));
+  color: var(--text);
+  font-family: "Segoe UI", "Noto Sans KR", sans-serif;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+.wrap {
+  border: 2px solid var(--panel-border);
+  box-shadow: 0 16px 60px rgba(0,0,0,.45);
+}
+
+/* 실제 게임이 그려지는 캔버스 */`r`ncanvas {
+  display: block;
+  background: #1e1e1e;
+}
