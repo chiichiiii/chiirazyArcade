@@ -1,4 +1,4 @@
-# Chiirazy Arcade
+<img width="1562" height="806" alt="image" src="https://github.com/user-attachments/assets/7414d7b8-4b66-4222-8361-6334fbe511b4" /># Chiirazy Arcade
 
 Java Swing으로 만든 크레이지아케이드 스타일 게임
 
@@ -56,3 +56,18 @@ src/
 - 몬스터 추가
 - 맵 에디터
 - 사운드 시스템
+
+## 🎮 게임 화면
+
+![chiirazyArcade3](https://github.com/user-attachments/assets/bcf898d2-a32e-4923-a784-b4af0c802ca2)
+- 게임 초기 화면
+
+![chiirazyArcade4](https://github.com/user-attachments/assets/9574adb7-890e-4616-9360-5053f869b57d)
+- 친구와의 대전
+- 
+![chiirazyArcade2](https://github.com/user-attachments/assets/f4d4ea6a-c3a3-426c-9980-57ba6b5ffda5)
+- 봇전
+- 
+![chiirazyArcade1](https://github.com/user-attachments/assets/fc721dec-ccad-46a6-a87a-9aa04f4c6245)
+- 꼬물이 모드
+
